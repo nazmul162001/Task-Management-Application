@@ -1,6 +1,6 @@
 # Task Management Website Built with NextJs, Typesctipt, Tailwind, React-Hook-Form, RTK Query, Express, Prisma and Postgres
 
-## Project URL – <a href="https://task-management-eight-eosin.vercel.app/" rel="noopener" target="_blank">Internet Service Provider</a>
+## LIVE URL – <a href="https://task-management-eight-eosin.vercel.app/" rel="noopener" target="_blank">Task Management</a>
 
 #### Server-api : https://task-management-backend-coral.vercel.app
 
@@ -12,7 +12,6 @@
 
 #### The task management app streamlines task organization for users. It offers features to create, view, update, delete, and search tasks effectively. Users can categorize tasks, track their status, manage due dates, and prioritize tasks effortlessly. The intuitive interface facilitates easy task management, enabling users to find, update, and remove tasks swiftly. It enhances productivity by keeping users organized and in control of their responsibilities.<br> <br>
 
-<br><br> <br>
 
 ### Responsive Design:
 
